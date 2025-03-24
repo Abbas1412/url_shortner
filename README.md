@@ -187,9 +187,6 @@ We welcome contributions from the community! If you'd like to improve our URL sh
 - Rate limiting is implemented to prevent abuse
 - Regular security audits are performed
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Need Help?
 
@@ -197,7 +194,7 @@ If you encounter any issues or have questions about using our URL shortener:
 
 * Check the [FAQ section](#) in our documentation
 * Open an issue on GitHub
-* Contact our support team at support@urlshortener.example.com
+* Contact our support team at support@zaminabbas084@gmail.com
 
 ## 🔮 Future Plans
 
